@@ -1,15 +1,33 @@
+body
+{
+background-color: #D8ADAD;
+}
 h1
 {
 	text-align: center;
 }
-h4
+h3
 {
-	background-color: red;
 	text-align: right;
+	font-size:  120%;
+	color:black;
+
 }
 .row 
 {
-	width: 100%
+	width: 100%;
+}
+span{
+	background-color: #D50048;
+}
+.row > div
+{
+	background-color: #F1F1F1;
+	margin: 1% 0.5% 0.5% 1%;
+	border: 1px solid #C3C3C3;
+	font-family:  "Times New Roman", Georgia, Serif;
+	color: #822E2E;
+       box-sizing: border-box;
 }
 
 @media (min-width:  992px)
@@ -20,51 +38,51 @@ h4
 	}
 .col-lg-1
 {
-	width:8.33%;
+	width:8%;
 }
 .col-lg-2
 {
-	width:16.66%;
+	width:16%;
 }
 .col-lg-3
 {
-	width:25%;
+	width:24%;
 }
 .col-lg-4
 {
-	width:33%;
+	width:31%;
 }
 .col-lg-5
 {
-	width:41.66%;
+	width:40%;
 }
 .col-lg-6
 {
-	width:50%;
+	width:48%;
 }
 .col-lg-7
 {
-	width:58.33%;
+	width:56%;
 }
 .col-lg-8
 {
-	width:66.66%;
+	width:64%;
 }
 .col-lg-9
 {
-	width:75%;
+	width:72%;
 }
 .col-lg-10
 {
-	width:83.33%;
+	width:80%;
 }
 .col-lg-11
 {
-	width:91.66%;
+	width:88%;
 }
 .col-lg-12
 {
-	width:100%;
+	width:97.5%;
 }
 }
 
@@ -77,50 +95,50 @@ h4
 	}
 .col-md-1
 {
-	width:8.33%;
+	width:8.%;
 }
 .col-md-2
 {
-	width:16.66%;
+	width:16%;
 }
 .col-md-3
 {
-	width:25%;
+	width:24%;
 }
 .col-md-4
 {
-	width:33%;
+	width:31%;
 }
 .col-md-5
 {
-	width:41.66%;
+	width:40%;
 }
 .col-md-6
 {
-	width:50%;
+	width:48%;
 }
 .col-md-7
 {
-	width:58.33%;
+	width:56%;
 }
 .col-md-8
 {
-	width:66.66%;
+	width:64%;
 }
 .col-md-9
 {
-	width:75%;
+	width:72%;
 }
 .col-md-10
 {
-	width:83.33%;
+	width:80%;
 }
 .col-md-11
 {
-	width:91.66%;
+	width:88%;
 }
 .col-md-12
 {
-	width:100%;
+	width:97.5%;
 }
 }
