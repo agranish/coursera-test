@@ -17,15 +17,24 @@ h3
 {
 	width: 100%;
 }
-span{
+span.t1{
 	background-color: #D50048;
+        border: 1px solid black;
+}
+span.t2{
+	background-color: #8D00D5;
+        border: 1px solid black;
+}
+span.t3{
+	background-color: #48d500;
+        border: 1px solid black;
 }
 .row > div
 {
 	background-color: #F1F1F1;
 	margin: 1% 0.5% 0.5% 1%;
 	border: 1px solid #C3C3C3;
-	font-family:  "Times New Roman", Georgia, Serif;
+	font-family:  "Calibri";
 	color: #822E2E;
        box-sizing: border-box;
 }
