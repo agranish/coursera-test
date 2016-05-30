@@ -11,7 +11,7 @@ h3
 	text-align: right;
 	font-size:  120%;
 	color:black;
-
+       margin-top: 0px;
 }
 .row 
 {
@@ -22,10 +22,12 @@ span.t1{
         border: 1px solid black;
 }
 span.t2{
+	
 	background-color: #8D00D5;
         border: 1px solid black;
 }
 span.t3{
+
 	background-color: #48d500;
         border: 1px solid black;
 }
@@ -37,6 +39,7 @@ span.t3{
 	font-family:  "Calibri";
 	color: #822E2E;
        box-sizing: border-box;
+
 }
 
 @media (min-width:  992px)
